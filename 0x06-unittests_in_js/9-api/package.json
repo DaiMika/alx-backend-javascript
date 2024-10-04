@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A simple API for learning basic integration testing in NodeJS.",
   "main": "api.js",
-  "author": Maxyn Edogha <maxdietunnie@gmail.com>",
+  "author": "Maxyn Edogha <maxdietunnie@gmail.com>",
   "private": true,
   "license": "MIT",
   "scripts": {
